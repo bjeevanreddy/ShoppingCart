@@ -5,12 +5,12 @@ import { connect } from 'react-redux'
 const Navbar = ({cartlength}) => {
     return (
         <nav className="navigation">
-            <div className='brand'>
+            <div className='brands'>
                 <h3 to='/' className='link'>Store</h3>
             </div>
             <div className='links'>
             <Link to='/' className='link'><div>Home</div></Link>
-            <Link to='/' className='link'><div>Shop</div></Link>
+            {/* <Link to='/' className='link'><div>Shop</div></Link> */}
            <Link to='/cart' className='link'> 
                 <div className='cartlogo'><i className="fa fa-shopping-cart" aria-hidden="true"></i><span> {cartlength}</span></div>
            </Link>

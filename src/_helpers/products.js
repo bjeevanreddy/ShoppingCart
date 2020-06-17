@@ -38,7 +38,7 @@ export const products= [
 		{
 			"id":7,
 			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "'70s RETRO GLAM KEFIAH",
+			"name": "RETRO GLAM KEFIAH",
 			"price": 50
 		},
 		{
@@ -64,23 +64,5 @@ export const products= [
 			"imgUrl": "https://rukminim1.flixcart.com/image/495/594/jlb6v0w0/watch/n/z/t/ad239-casio-original-imaf8gtgfgy2hqz2.jpeg?q=50",
 			"name": "AD239 ( MWC-100H-1AVDF ) Analog Watch - For Men",
 			"price": 1886
-		},
-		{
-			"id":12,
-			"imgUrl": "https://images.unsplash.com/photo-1591561954555-607968c989ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
-			"name": "Hand Bag",
-			"price": 1800
-		},
-		{
-			"id":13,
-			"imgUrl": "https://rukminim1.flixcart.com/image/332/398/jm3ro280/t-shirt/9/h/f/m-style-tshirt-try-this-original-imaf8zxukgz3cjhq.jpeg?q=50",
-			"name": "Men Shirts",
-			"price": 200
-		},
-		{
-			"id":14,
-			"imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
-			"name": "'70s RETRO GLAM KEFIAH",
-			"price": 50
 		}
 	]

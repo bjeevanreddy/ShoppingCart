@@ -240,7 +240,7 @@ code {
   padding: 5px;
 }
 
-.navigation .brand {
+.navigation .brands {
     font-style: italic;
     font-weight: 500;
     font-size: 30px;
@@ -248,7 +248,7 @@ code {
     
 }
 
-.navigation .brand .link{
+.navigation .brands .link{
   text-decoration: none;
 }
 .navigation .links{
