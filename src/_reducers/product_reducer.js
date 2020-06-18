@@ -96,7 +96,10 @@ export function Product(state = intialState, action) {
                 ...state,
                 cartTotal: 0,
                 cartlength: 0,
-                cart: []
+                cart: [],
+                filterredproducts:[],
+                sort:"",
+                filter:""
             }
         case productConstants.FILTER_PRODUCTS:
             
