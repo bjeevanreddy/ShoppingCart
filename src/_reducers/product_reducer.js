@@ -97,7 +97,6 @@ export function Product(state = intialState, action) {
                 cartTotal: 0,
                 cartlength: 0,
                 cart: [],
-                filterredproducts:[],
                 sort:"",
                 filter:""
             }
